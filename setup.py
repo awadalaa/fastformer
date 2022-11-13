@@ -1,7 +1,7 @@
 import os.path
 import setuptools
 
-DESCRIPTION = "A Tensorflow implementation of Fastformer: Additive Attention Can Be All You Need in TensorFlow"
+DESCRIPTION = "An unofficial tensorflow implementation of Fastformer: Additive Attention Can Be All You Need in TensorFlow"
 
 curr_directory = os.path.abspath(os.path.dirname(__file__))
 
